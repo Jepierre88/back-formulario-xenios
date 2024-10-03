@@ -5,11 +5,11 @@ const config = {
   name: 'xeniosFormulario',
   connector: 'mysql',
   url: '',
-  host: 'localhost',
-  port: 3306,
+  host: 'coinscontrol-prueba-jepierre89.f.aivencloud.com',
+  port: 26556,
   user: 'coins',
-  password: 'COins545-811',
-  database: 'xeniosFormulario'
+  password: 'AVNS_1TIrwIfRu2vzbfW8xzF',
+  database: 'xenios'
 };
 
 // Observe application's life cycle to disconnect the datasource when
